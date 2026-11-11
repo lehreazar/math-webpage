@@ -35,7 +35,7 @@ a:active {
 }
 
 th a:link {
-  color: #0000FF;
+  color: #FFFFFF;
   background-color: transparent;
   text-decoration: none;
 }
@@ -108,8 +108,11 @@ table{
 
 th, td{
 	background-color: #D4538A;
+	color: #FFFFFF;
 	font-color: #FFFFFF;
 	border-color: #FFFFFF;
+	font-size: 1.5 em;
+	padding: 10pt;
 }
 
-	
+
