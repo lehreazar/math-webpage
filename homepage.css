@@ -119,9 +119,9 @@ li{
 .caption{
 	font-size: smaller;
 	font-style: italic;
-	padding-left: 20pt;
-	padding-right: 20pt;
+	padding: 20pt;
 	font-weight:lighter;
+	text-align: center;
 }
 
 table{
