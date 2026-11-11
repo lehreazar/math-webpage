@@ -79,16 +79,16 @@ th a:active {
 	padding-top: 15pt;
 }
 .name h1{
-	font-size: 3.5svw;
+	font-size: 7cqw;
 }
 .name h2{
-	font-size: 2.5svw;
+	font-size: 5cqw;
 }
 .name h3{
-	font-size: 2.5svw;
+	font-size: 5cqw;
 }
 .name p{
-	font-size: 1.5svw;
+	font-size: 3cqw;
 }
 
 .name_para{
@@ -99,7 +99,7 @@ th a:active {
 	padding-bottom: 15pt;
 }
 .name_para p{
-	font-size: 1.5svw;
+	font-size: 3cqw;
 }
 
 .name_para a{
