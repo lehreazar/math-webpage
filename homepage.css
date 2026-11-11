@@ -63,13 +63,12 @@ th a:active {
 	margin-right: auto;
 	display: table;
 	width: 100%;
-	max-width: 400pt;
+	max-width: 600pt;
 }
 
 .container_photo_name div {
 	display: table-cell;
 	width: 50%;
-	max-width: 180pt;
 	padding: 10pt;
 }
 
