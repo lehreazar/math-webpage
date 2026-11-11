@@ -1,0 +1,86 @@
+body{
+	font-family: Calibri, Helvetica, Tahoma;
+	font-size: 12 pt;
+	padding: 2.5%;
+	text-align: center;
+	max-width: 900pt;
+	margin-left:auto;
+	margin-right: auto;
+	border-width: thin;
+	border-color: #F069A3;
+}
+
+a{
+	target: "_blank";
+}
+
+a:link {
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FF0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.name{
+	font-family: "Century Gothic", "UF-8 Gothic";
+	font-weight: lighter; 
+	font-size: 3em;
+	color: #F069A3;
+	text-align: right;
+	padding-top: 15pt;
+
+}
+.name_para{
+	font-family: "Century Gothic", "UF-8 Gothic";
+	font-weight: lighter; 
+	font-size: 1.5em;
+	color: #F069A3;
+	text-align: right;
+	padding-bottom: 15pt;
+}
+p, ul, ol, li{
+	text-align: justify;
+	font-size: 1.1em;
+}
+
+.container_photo_name {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 600pt;
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.container_photo_name div {
+	padding: 10pt;
+	text-align: center;
+}
+
+.caption{
+	font-size: smaller;
+	font-style: italic;
+	padding-left: 20pt;
+	padding-right: 20pt;
+	font-weight:lighter;
+}
+
+
+
+	
