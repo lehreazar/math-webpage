@@ -69,6 +69,7 @@ th a:active {
 .container_photo_name div {
 	display: table-cell;
 	width: 50%;
+	max-width: 180pt;
 	padding: 10pt;
 }
 
