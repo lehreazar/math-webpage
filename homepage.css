@@ -112,7 +112,8 @@ li{
 
 .container_photo_name div {
 	padding: 10pt;
-	text-align: center;
+	text-align: right;
+	align-items: center;
 }
 
 .caption{
