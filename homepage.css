@@ -58,6 +58,18 @@ th a:active {
   text-decoration: underline;
 }
 
+.container_photo_name {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 600pt;
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.container_photo_name div {
+	padding: 10pt;
+}
+
 .name{
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
 	font-weight: lighter; 
@@ -100,18 +112,6 @@ p, ul, ol{
 }
 li{
 	text-align:justify;
-}
-
-.container_photo_name {
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 600pt;
-	display: grid;
-	grid-template-columns: 50% 50%;
-}
-
-.container_photo_name div {
-	padding: 10pt;
 }
 
 .caption{
