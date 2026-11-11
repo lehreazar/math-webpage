@@ -10,10 +10,6 @@ body{
 	border-color: #F069A3;
 }
 
-a{
-	target: "_blank";
-}
-
 a:link {
   color: #0000FF;
   background-color: transparent;
@@ -27,13 +23,37 @@ a:visited {
 }
 
 a:hover {
-  color: #0000FF;
+  color: #F069A3;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
   color: #FF0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+th a:link {
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+th a:visited {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+th a:hover {
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+th a:active {
+  color: #0000FF;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -51,7 +71,7 @@ a:active {
 	font-family: "Century Gothic", "UF-8 Gothic";
 	font-weight: lighter; 
 	font-size: 1.5em;
-	color: #F069A3;
+	color: #D4538A;
 	text-align: right;
 	padding-bottom: 15pt;
 }
@@ -81,6 +101,15 @@ p, ul, ol, li{
 	font-weight:lighter;
 }
 
+table{
+	width: 100%;
+	border: 0px;
+}
 
+th, td{
+	background-color: #D4538A;
+	font-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
 
 	
