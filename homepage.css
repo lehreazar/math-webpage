@@ -63,7 +63,7 @@ th a:active {
 	margin-right: auto;
 	max-width: 600pt;
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: repeat(2 1fr);
 }
 
 .container_photo_name div {
