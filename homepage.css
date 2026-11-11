@@ -63,19 +63,20 @@ th a:active {
 	font-weight: lighter; 
 	color: #F069A3;
 	text-align: right;
+	align-items: center;
 	padding-top: 15pt;
 }
 .name h1{
-	font-size: 3.5vw;
+	font-size: 3.5svw;
 }
 .name h2{
-	font-size: 2.5vw;
+	font-size: 2.5svw;
 }
 .name h3{
-	font-size: 2.5vw;
+	font-size: 2.5svw;
 }
 .name p{
-	font-size: 1.5vw;
+	font-size: 1.5svw;
 }
 
 .name_para{
@@ -86,16 +87,19 @@ th a:active {
 	padding-bottom: 15pt;
 }
 .name_para p{
-	font-size: 1.5vw;
+	font-size: 1.5svw;
 }
 
 .name_para a{
 	font-family: Consolas, Monospace;
 }
 
-p, ul, ol, li{
+p, ul, ol{
 	text-align: justify;
 	font-size: 1.1em;
+}
+li{
+	text-align:justify;
 }
 
 .container_photo_name {
