@@ -74,6 +74,8 @@ th a:active {
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
 	color: ##D4538A;
 	font-color: ##D4538A;
+	font-size:1.5em;
+	font-weight: bold;
 	text-align: center;
 	align-items: center;
 	padding-bottom: 10pt;
