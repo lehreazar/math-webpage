@@ -126,6 +126,7 @@ li{
 }
 
 table{
+	table-layout: fixed;
 	width: 100%;
 	border: 0px;
 }
@@ -137,6 +138,8 @@ th{
 	border-color: #FFFFFF;
 	font-size: 1.5 em;
 	padding: 10pt;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
 }
 
 td{
@@ -145,4 +148,6 @@ td{
 	font-color: #FFFFFF;
 	border-color: #FFFFFF;
 	padding: 10pt;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
 }
