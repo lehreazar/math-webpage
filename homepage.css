@@ -59,6 +59,9 @@ th a:active {
 }
 
 .address_container{
+	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
+	color: ##D4538A;
+	font-color: ##D4538A;
 	align-items: center;
 	text-align: center;
 	margin-left: auto;
@@ -108,7 +111,9 @@ th{
 	border-color: #FFFFFF;
 	font-size: 1.5 em;
 	padding-top: 10pt;
-	padding-bottom:10pt;
+	padding-bottom: 10pt;
+	padding-left:5pt;
+	padding-right:5pt;
 	white-space: pre-wrap;
 	max-width: 30%;
 }
@@ -118,6 +123,8 @@ td{
 	border-color: #FFFFFF;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
+	padding-left:5pt;
+	padding-right:5pt;
 	white-space: pre-wrap;
 	overflow-wrap: break-word;
 	max-width: 30%;
