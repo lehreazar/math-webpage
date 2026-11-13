@@ -140,6 +140,7 @@ th{
 	padding: 10pt;
 	white-space: pre-wrap;
 	overflow-wrap: break-word;
+	max-width: 30%;
 }
 
 td{
@@ -150,4 +151,5 @@ td{
 	padding: 10pt;
 	white-space: pre-wrap;
 	overflow-wrap: break-word;
+	max-width: 30%;
 }
