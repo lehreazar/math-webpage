@@ -60,9 +60,12 @@ th a:active {
 
 .address_container{
 	align-items: center;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	vertical-align: middle;
 	max-width: 600pt;
-	padding: 5pt;
+	padding-top: 10pt;
 }
 .address{
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
