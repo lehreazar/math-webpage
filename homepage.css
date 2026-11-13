@@ -109,6 +109,10 @@ th a:active {
 	font-family: Consolas, Monospace;
 }
 
+.address_container{
+	align-items: center;
+	max-width: 600pt;
+}
 .address{
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
 	color: ##D4538A;
