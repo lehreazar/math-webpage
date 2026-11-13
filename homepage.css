@@ -100,7 +100,6 @@ li{
 table{
 	table-layout: auto;
 	width: 100%;
-	border-collapse: collapse;
 	border: 0pt;
 }
 
@@ -125,7 +124,7 @@ td{
 	padding-right:5pt;
 	white-space: pre-wrap;
 	overflow-wrap: break-word;
-	text-align: justify;
+	text-align: left;
 }
 
 .CV_head{
