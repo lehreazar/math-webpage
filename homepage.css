@@ -60,6 +60,7 @@ th a:active {
 
 .address_container{
 	align-items: center;
+	vertical-align: middle;
 	max-width: 600pt;
 	padding: 5pt;
 }
