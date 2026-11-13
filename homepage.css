@@ -159,4 +159,11 @@ td{
 	color: #F069A3;
 	text-align: center;
 	padding-top: 15pt;
+	padding-bottom: 10pt;
 }
+.CV_smallhead{
+	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
+	color: #F069A3;
+	padding-top: 10pt;
+}
+
