@@ -60,8 +60,8 @@ th a:active {
 
 .address_container{
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
-	color: ##D4538A;
-	font-color: ##D4538A;
+	color: #D4538A;
+	font-color: #D4538A;
 	align-items: center;
 	text-align: center;
 	margin-left: auto;
@@ -72,8 +72,8 @@ th a:active {
 }
 .address{
 	font-family: "Century Gothic", "UF-8 Gothic", Monospace;
-	color: ##D4538A;
-	font-color: ##D4538A;
+	color: #D4538A;
+	font-color: #D4538A;
 	font-size:1.5em;
 	font-weight: bold;
 	text-align: center;
