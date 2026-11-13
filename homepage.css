@@ -130,7 +130,7 @@ table{
 	border: 0px;
 }
 
-th, td{
+th{
 	background-color: #D4538A;
 	color: #FFFFFF;
 	font-color: #FFFFFF;
@@ -139,3 +139,10 @@ th, td{
 	padding: 10pt;
 }
 
+td{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-color: #FFFFFF;
+	border-color: #FFFFFF;
+	padding: 10pt;
+}
