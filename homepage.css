@@ -64,13 +64,13 @@ th a:active {
 	display: table;
 	width: 100%;
 	max-width: 400pt;
-	vertical-align: middle;
 }
 
 .container_photo_name div {
 	display: table-cell;
 	width: 50%;
 	padding: 10pt;
+	vertical-align: middle;
 }
 
 .name{
