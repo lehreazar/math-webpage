@@ -100,7 +100,9 @@ li{
 table{
 	table-layout: auto;
 	width: 100%;
-	border: 0pt;
+	border: 2pt;
+	border-collapse: collapse;
+	border-color:#FFFFFF;
 }
 
 th{
