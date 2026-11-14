@@ -100,7 +100,7 @@ li{
 table{
 	table-layout: auto;
 	width: 100%;
-	border: 2pt;
+	border-width: medium;
 	border-collapse: collapse;
 	border-color:#FFFFFF;
 }
@@ -110,7 +110,7 @@ th{
 	color: #FFFFFF;
 	font-color: #FFFFFF;
 	border-color: #FFFFFF;
-	border: 2pt;
+	border-width: thick;
 	font-size: 1.5 em;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
@@ -121,6 +121,7 @@ th{
 
 td{
 	border-color: #FFFFFF;
+	border-width: thin;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
 	padding-left:5pt;
