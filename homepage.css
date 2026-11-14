@@ -103,6 +103,7 @@ table{
 	border-width: medium;
 	border-collapse: collapse;
 	border-color:#FFFFFF;
+	border-style: solid;
 }
 
 th{
@@ -111,6 +112,7 @@ th{
 	font-color: #FFFFFF;
 	border-color: #FFFFFF;
 	border-width: thick;
+	border-style: solid;
 	font-size: 1.5 em;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
@@ -122,6 +124,7 @@ th{
 td{
 	border-color: #FFFFFF;
 	border-width: thin;
+	border-style: solid;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
 	padding-left:5pt;
